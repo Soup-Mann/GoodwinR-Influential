@@ -1,0 +1,124 @@
+.title{
+    font-weight: bold;
+}
+.img1{
+    background-image: url(../assets/03greedo4.jpeg);
+    height: 300px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.img2{
+    background-image: url(../assets/greedo5.jpg);
+    height: 365px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.img3{
+    background-image: url(../assets/greedo7.jpg);
+    height: 365px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.img4{
+    background-image: url(../assets/o3greedo2.jpg);
+    height: 365px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.img5{
+    background-image: url(../assets/03greedo1.webp);
+    height: 365px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.alb1{
+    background-image: url(../assets/albumcover1.jpg);
+    height: 200px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.alb2{
+    background-image: url(../assets/albumcover2.webp);
+    height: 200px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.alb3{
+    background-image: url(../assets/albumcover3.jpg);
+    height: 125px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.alb4{
+    background-image: url(../assets/albumcover4.jpg);
+    height: 200px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.alb5{
+    background-image: url(../assets/albumcover5.jpg);
+    height: 200px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.alb6{
+    background-image: url(../assets/albumcover6.jpg);
+    height: 200px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.alb7{
+    background-image: url(../assets/albumcover7.jpg);
+    height: 200px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.alb8{
+    background-image: url(../assets/albumcover8.jpg);
+    height: 200px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+
+.whyPic{
+    background-image: url(../assets/greedo6.webp);
+    height: 365px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+
+
+
+.introduction{
+    padding-top: 50px;
+}
+
+.grapeIcon{
+    height: 3rem;
+    width: 3rem;
+}
+body{
+    border-style: groove;
+    border-color: purple;
+    border-width: 7rem;
+}
